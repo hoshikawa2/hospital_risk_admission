@@ -1,6 +1,6 @@
 # Hospital Risk Admission Prediction with Machine Learning
 
-## Problema de Negócio
+## Introdução
 
 Organizações de saúde enfrentam grandes desafios para prever o risco de internação hospitalar de pacientes atendidos no pronto-socorro.
 Normalmente, os médicos e equipes de triagem precisam tomar decisões rápidas com base em informações incompletas, o que pode levar a:

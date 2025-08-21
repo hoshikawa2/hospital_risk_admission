@@ -129,3 +129,13 @@ Trata-se de um material:
 
 
 ![img_2.png](img_2.png)
+
+## Reference
+
+- [A Data Scientist's Guide to OCI](https://docs.oracle.com/en-us/iaas/Content/GSG/Reference/getting-started-as-data-scientist.htm#ml-lifecycle-data)
+- [Download Database Connection Information](https://docs.oracle.com/en/cloud/paas/autonomous-database/serverless/adbsb/connect-download-wallet.html#GUID-DED75E69-C303-409D-9128-5E10ADD47A35)
+- [ADS Training](https://accelerated-data-science.readthedocs.io/en/latest/user_guide/model_training/automl/quick_start.html)
+
+## Acknowledgments
+
+- **Author** - Cristiano Hoshikawa (Oracle LAD A-Team Solution Engineer)
